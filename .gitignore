@@ -1,3 +1,8 @@
+# Apple
+.DS_Store
+html/.DS_Store
+html/images/.DS_Store
+
 # images
 html/images/
 *.jpg
